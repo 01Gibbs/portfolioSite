@@ -45,7 +45,7 @@ const NavBar = () => {
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          className="w-6 mr-3"
+          className="w-6 mx-3"
         >
           <TwitterIcon />
         </motion.a>
@@ -54,7 +54,7 @@ const NavBar = () => {
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          className="w-6 mr-3"
+          className="w-6 mx-3"
         >
           <GithubIcon />
         </motion.a>
@@ -63,7 +63,7 @@ const NavBar = () => {
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          className="w-6 mr-3"
+          className="w-6 mx-3"
         >
           <LinkedInIcon />
         </motion.a>
@@ -72,7 +72,7 @@ const NavBar = () => {
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          className="w-6 mr-3"
+          className="w-6 mx-3"
         >
           <PinterestIcon />
         </motion.a>
@@ -81,7 +81,7 @@ const NavBar = () => {
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          className="w-6 mr-3"
+          className="w-6 ml-3"
         >
           <DribbleIcon />
         </motion.a>
