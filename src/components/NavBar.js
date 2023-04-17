@@ -3,7 +3,7 @@ import React from "react";
 import Logo from "./Logo";
 import { useRouter } from "next/router";
 import {
-  DribbbleIcon,
+  DribbleIcon,
   GithubIcon,
   LinkedInIcon,
   PinterestIcon,
@@ -83,7 +83,7 @@ const NavBar = () => {
           whileTap={{ scale: 0.9 }}
           className="w-6 mr-3"
         >
-          <DribbbleIcon />
+          <DribbleIcon />
         </motion.a>
       </nav>
       <div className="absolute left-[50%] top-2 translate-x-[-50%]">
