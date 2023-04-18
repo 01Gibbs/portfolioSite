@@ -3,7 +3,7 @@ import React from "react";
 import Logo from "./Logo";
 import { useRouter } from "next/router";
 import {
-  DribbleIcon,
+  DribbbleIcon,
   GithubIcon,
   LinkedInIcon,
   PinterestIcon,
@@ -50,7 +50,7 @@ const NavBar = () => {
           <TwitterIcon />
         </motion.a>
         <motion.a
-          href="https://twitter.com"
+          href="https://github.com/01Gibbs/"
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -59,7 +59,7 @@ const NavBar = () => {
           <GithubIcon />
         </motion.a>
         <motion.a
-          href="https://twitter.com"
+          href="https://www.linkedin.com/in/01gibbs/"
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -68,7 +68,7 @@ const NavBar = () => {
           <LinkedInIcon />
         </motion.a>
         <motion.a
-          href="https://twitter.com"
+          href="https://www.pinterest.co.uk/"
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -77,13 +77,13 @@ const NavBar = () => {
           <PinterestIcon />
         </motion.a>
         <motion.a
-          href="https://twitter.com"
+          href="https://dribbble.com/"
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
           className="w-6 ml-3"
         >
-          <DribbleIcon />
+          <DribbbleIcon />
         </motion.a>
       </nav>
       <div className="absolute left-[50%] top-2 translate-x-[-50%]">
