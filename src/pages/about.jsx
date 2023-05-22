@@ -55,7 +55,7 @@ const about = () => {
               <p className="font-medium my-4">
                 Design is more than User Interface. At the core, it is solving
                 problems and creating intuitive user experiences that are
-                enjoyable and purposeful.
+                enjoyable to use and purposeful.
               </p>
               <p className="font-medium">
                 Whether I am working on a website, or a digital application, I
