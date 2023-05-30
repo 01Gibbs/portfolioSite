@@ -59,7 +59,7 @@ const Education = () => {
             type="Cert. of Higher Education in Audio and Recording Technology"
             time="Sept 2012 - Sept 2013"
             place="De Montfort University, Leicester, UK"
-            info="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis risus sit amet nulla mattis mollis. Sed lacus dolor, feugiat at est nec, imperdiet interdum sapien. Aliquam sit amet vehicula tortor. Sed in ultricies felis. Nunc sem ipsum, fermentum at accumsan in, malesuada at dui. Etiam porttitor justo tortor, non. "
+            info="Module of Web 3 Development Fundamentals in HTML and CSS. Integration of MaxMSP application development in creating multistep sequential music generator modulating sounds through 3D axial hand movements, (X, Y and Z axes), acceleration/ deceleration of Infra Red Wii Remote "
           />
         </ul>
       </div>
